@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Monio</string>
+    <string name="default_web_client_id">449717916136-ugfs1dh07dlva43p7n561eb3uf9iq1al.apps.googleusercontent.com</string >
+
+
+     <!-- Test
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>
+    -->
+
+
+
+    <!-- Main-add -->
+    <string name="app_id">ca-app-pub-2662418085314860~5617386622</string>
+    <string name="banner_id">ca-app-pub-2662418085314860/4688266576</string>
+    <string name="interstitial_id">ca-app-pub-2662418085314860/7920950484</string>
+    <string name="native_id">ca-app-pub-2662418085314860/2591330662</string>
+
+</resources>
